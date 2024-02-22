@@ -3,7 +3,7 @@
 Student at 42.fr school !
 
 
-## Current Project(s):
+## Current Project(s)
 
  - [RETA (FIVEM)](https://reta.games)
 
