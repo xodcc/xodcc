@@ -5,7 +5,7 @@ Student at 42.fr school !
 
 ## Current Project(s)
 
- - [RETA (FIVEM)](https://reta.games)
+ - working on MUJO !
 
 ## Other
 🧠 I'm currently learning C & Python
