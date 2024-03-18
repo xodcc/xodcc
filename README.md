@@ -5,7 +5,7 @@ Student at 42.fr school !
 
 ## Current Project(s)
 
- - working on MUJO !
+ - Working on MUJO !
 
 ## Other
 🧠 I'm currently learning C & Python
