@@ -2,10 +2,9 @@
 
 Student at 42.fr school !
 
+## Current personal project(s)
 
-## Current Project(s)
-
- - Working on MUJO !
+ - Working on FLOWAS !
 
 ## Other
 🧠 I'm currently learning C & Python
