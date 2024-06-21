@@ -1,12 +1,35 @@
-# Hi, I'm @xodcc ! 👋
+<h2 align="left">Hello, I'm xod 👋</h2>
 
-Student at 42.fr school !
+###
 
-## Current personal project(s)
+<p align="left">• I'm currently learning C and Python at School 42</p>
 
- - Working on FLOWAS !
+###
 
-## Other
-🧠 I'm currently learning C & Python
+<p align="left">• Passionate about sysadmin</p>
 
-👀 Passionate about Data Science.
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xodcc&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/xodcc/xodcc/output/snake.svg" alt="Snake animation" />
+
+###
