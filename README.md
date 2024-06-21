@@ -27,9 +27,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/xodcc/xodcc/output/snake.svg" alt="Snake animation" />
-
-###
